@@ -1,4 +1,6 @@
 /*
+Author: Maximiliano García Rozado
+Date: 08/16/2012.
 Main function:
 	name: getYoutubeDataInformation(video, callback)
 	parameters: video (id of the video), callback (sync callback that uses the data)
